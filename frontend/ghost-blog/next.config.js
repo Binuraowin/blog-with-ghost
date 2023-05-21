@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ['static.ghost.org'],
+        domains: ['binura-owin.ghost.io',"static.ghost.org"],
       },
 }
 
